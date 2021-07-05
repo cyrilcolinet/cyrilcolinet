@@ -1,5 +1,4 @@
 <h1 align="center">Salut :wave:, je me présente, Cyril :v:</h1>
-<h3 align="center">Développeur full-stack Freelance à ses heures perdues (axé mobile)</h3>
 
 <p align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" />
