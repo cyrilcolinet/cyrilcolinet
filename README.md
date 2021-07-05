@@ -1,7 +1,17 @@
-<h1 align="center">Salut 👋, moi c'est Cyril.</h1>
+<h1 align="center">Salut 👋, moi c'est Cyril Colinet.</h1>
+<h3 align="center">Développeur mobile Freelance</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cyrilcolinet&theme=dracula&column=10&margin-w=10&no-frame=true&rank=SECRET,S,SS,SSS,A,AA,AAA,B)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyrilcolinet&theme=dracula&column=7&margin-w=10&no-frame=true" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrilcolinet&theme=dark&show_icons=true&count_private=true)
+<hr />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyrilcolinet&theme=dark)](https://git.io/streak-stats)
+<div>
+  <img height="203" align="left" src="https://github-readme-stats.vercel.app/api?username=cyrilcolinet&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" />
+  <img height="203" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilcolinet&layout=compact&theme=dracula&hide_border=true" />
+</div>
+
+<br />
+
+<img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=cyrilcolinet&theme=dracula&hide_border=true" />
