@@ -1,5 +1,25 @@
-<h1 align="center">Salut 👋, moi c'est Cyril Colinet.</h1>
-<h3 align="center">Développeur mobile Freelance à ses heures perdues</h1>
+<h1 align="center">Salut :wave:, je me présente, Cyril :v:</h1>
+<h3 align="center">Développeur full-stack Freelance à ses heures perdues (axé mobile)</h3>
+
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="ReactJs, React Native" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="AngularJs" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" title="NestJs" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="VueJs" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" title="Laravel" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" title="Android" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift UI" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" title="Adobe XD" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker" />
+</p>
+
+<br />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cyrilcolinet&theme=dracula&column=7&margin-w=10&no-frame=true" />
