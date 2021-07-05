@@ -1,5 +1,7 @@
 <h1 align="center">Salut :wave:, je me présente, Cyril :v:</h1>
 
+<br />
+
 <p align="center">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" />
