@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, I'm Cyril :v:</h1>
+<h1 align="center">Hi, I'm Cyril :wave:</h1>
 
 <br />
 
