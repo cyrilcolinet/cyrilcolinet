@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cyril :wave:</h1>
+<h1 align="center">Salut c'est moi, Cyril :wave:</h1>
 
 <br />
 
@@ -15,13 +15,10 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker" />
 </p>
 
-<br />
+### Présentation
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyrilcolinet&theme=dracula&column=7&margin-w=10&no-frame=true" />
-</p>
+Ancien étudiant Epitech, campus de Nice et diplômé en 2022. Actuellement C.T.O chez @Ledgity depuis Septempbre 2021.
+Niçois. Pure souche :smirk: Et **non**, ce n'est pas mon chat sur la photo, a mon plus grand regret...
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cyrilcolinet&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilcolinet&layout=compact&theme=dracula&hide_border=true&count_private=true" />
-</p>
+Ouvert aux projets en freelance de courte durée (maximum 6 mois), avec une fréquence de travail se résumant aux soirs et week-ends.
+N'hésitez pas à me contacter pour toute demande.
