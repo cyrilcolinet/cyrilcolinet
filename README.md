@@ -17,7 +17,7 @@
 
 ### Présentation
 
-Ancien étudiant Epitech, campus de Nice et diplômé en 2022. Actuellement C.T.O chez @Ledgity depuis Septembre 2021.
+Ancien étudiant Epitech, campus de Nice et diplômé en 2022. Travailleur indépendant dans le domaine du code, et de la finance.<br />
 Niçois. Pure souche :smirk: Et **non**, ce n'est pas mon chat sur la photo, a mon plus grand regret...
 
 Ouvert aux projets en freelance de courte durée (maximum 6 mois), avec une fréquence de travail se résumant aux soirs et week-ends.
