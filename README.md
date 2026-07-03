@@ -1,37 +1,74 @@
-<h1 align="center">Salut, c'est Cyril :wave:</h1>
-<h3 align="center">Software Architect & Senior Backend Engineer · CEO @ <a href="https://syntax-labs.fr">Syntax Labs</a></h3>
+<div align="center">
+
+# Cyril COLINET
+
+**Software Architect · Senior Backend Engineer · CEO @ Syntax Labs**
 
 <br />
 
-<p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" title="APIs & intégrations" />
-</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+
+<br /><br />
+
+<sub>Nice, France · Niçois, pure souche :smirk:</sub>
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Présentation
 
-Diplômé d'[Epitech](https://www.epitech.eu/) (campus de Nice, 2022). Ex-CTO de [Ledgity](https://ledgity.com), je conçois et livre aujourd'hui des systèmes backend, des architectures produit et des automatisations pour des équipes fintech, wealth et ops — via [Syntax Labs](https://syntax-labs.fr), studio d'architecture & solutions.
+Diplômé d'Epitech (campus de Nice, 2022).
 
-Niçois. Pure souche :smirk:
+Ex-CTO de Ledgity, je conçois et livre des systèmes backend, des architectures produit et des automatisations pour des équipes fintech, wealth et ops.
+
+Via **Syntax Labs**, studio d'architecture & solutions.
+
+</td>
+<td width="50%" valign="top">
 
 ### En ce moment
 
-- Architecture, intégrations et automatisation chez **Syntax Labs** (Ledgity, Epitech, Expert Crypto…)
-- Développement de [**enki-integration-hass**](https://github.com/cyrilcolinet/enki-integration-hass) — intégration Home Assistant pour l'écosystème Enki / Leroy Merlin
-- Contributions open source (HACS, domotique, backend Java/Spring)
+**Syntax Labs**  
+Architecture, intégrations et automatisation — Ledgity, Epitech, Expert Crypto…
 
-### Contact
+**Open source**  
+enki-integration-hass — intégration Home Assistant pour Enki / Leroy Merlin
 
-En **mission full-time** via Syntax Labs, et ouvert aux **opportunités** (architecture, backend, intégrations, automatisation, CTO/advisory). Réponse sous 24h en jours ouvrés.
+**Contributions**  
+HACS · domotique · backend Java / Spring
 
-- Site : [syntax-labs.fr](https://syntax-labs.fr)
-- Email : [contact@syntax-labs.fr](mailto:contact@syntax-labs.fr)
-- X : [@colinetcyril](https://x.com/colinetcyril)
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+### Disponibilité
+
+En **mission** via Syntax Labs · **Ouvert aux opportunités**  
+Architecture · Backend · Intégrations · Automatisation · CTO & advisory
+
+<br />
+
+<img src="https://img.shields.io/badge/✉️_contact@syntax-labs.fr-111?style=for-the-badge" alt="contact@syntax-labs.fr" />
+
+<br /><br />
+
+<sub>Réponse sous 24h · jours ouvrés</sub>
+
+</div>
