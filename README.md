@@ -18,9 +18,9 @@
 
 ### Présentation
 
-Diplômé d'[Epitech](https://www.epitech.eu/) (campus de Nice, 2022). Je conçois et livre des systèmes backend, des architectures produit et des automatisations pour des équipes fintech, wealth et ops — via [Syntax Labs](https://syntax-labs.fr), studio d'architecture & solutions.
+Diplômé d'[Epitech](https://www.epitech.eu/) (campus de Nice, 2022). Ex-CTO de [Ledgity](https://ledgity.com), je conçois et livre aujourd'hui des systèmes backend, des architectures produit et des automatisations pour des équipes fintech, wealth et ops — via [Syntax Labs](https://syntax-labs.fr), studio d'architecture & solutions.
 
-Niçois. Pure souche :smirk: Et **non**, ce n'est pas mon chat sur la photo, à mon plus grand regret...
+Niçois. Pure souche :smirk:
 
 ### En ce moment
 
@@ -30,7 +30,7 @@ Niçois. Pure souche :smirk: Et **non**, ce n'est pas mon chat sur la photo, à 
 
 ### Contact
 
-Ouvert aux **missions sélectives** (architecture, backend, intégrations, automatisation). Réponse sous 24h en jours ouvrés.
+En **mission full-time** via Syntax Labs, et ouvert aux **opportunités** (architecture, backend, intégrations, automatisation, CTO/advisory). Réponse sous 24h en jours ouvrés.
 
 - Site : [syntax-labs.fr](https://syntax-labs.fr)
 - Email : [contact@syntax-labs.fr](mailto:contact@syntax-labs.fr)
