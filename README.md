@@ -8,7 +8,7 @@ Nice, France · Niçois, pure souche :smirk:
 
 ### Présentation
 
-Diplômé d'Epitech (campus de Nice, 2022). Ex-CTO de Ledgity, je conçois et livre des systèmes backend, des architectures produit et des automatisations pour des équipes fintech, wealth et ops — via **Syntax Labs**, studio d'architecture & solutions.
+Diplômé d'Epitech (campus de Nice, 2022). Ex-CTO de [@Ledgity](https://github.com/LedgityLabs), je conçois et livre des systèmes backend, des architectures produit et des automatisations pour des équipes fintech, wealth et ops — via **Syntax Labs**, studio d'architecture & solutions.
 
 **Stack** — Java · Spring Boot · Kotlin · Python · PostgreSQL · Redis · Docker · Flutter · TypeScript
 
